@@ -4,7 +4,7 @@
 
 - automated testing.
 - jest testing framework.
-- supertest module
+- supertest module.
 
 ## Assignment
 
